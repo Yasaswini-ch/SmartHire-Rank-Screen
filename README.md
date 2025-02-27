@@ -28,7 +28,7 @@ Let's check the SmartHire Rank&Screen is an AI-driven tool for automated resume 
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/Yasaswini-ch/smarthire-rank-screen.git
+   git clone https://github.com/yasaswini-ch/smarthire-rank-screen.git
    cd smarthire-rank-screen
    ```
 
